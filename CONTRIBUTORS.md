@@ -10,3 +10,4 @@ Thanks to everyone who contributed!
 - [chaanakyaaM](https://github.com/chaanakyaaM) — contributions: 2
 - [Aadhithya01](https://github.com/Aadhithya01) — contributions: 1
 - [MannXo](https://github.com/MannXo) — contributions: 1
+- [Jivi](https://github.com/Jivi-this-side) - contributions: 1
