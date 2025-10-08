@@ -49,6 +49,9 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [reverse-string.go](snippets/Algorithms/go/reverse-string.go)
   - [stack-example.go](snippets/Algorithms/go/stack-example.go)
 - **java**
+  - [BinarySearch.java](snippets/Algorithms/java/BinarySearch.java)
+  - [BubbleSort.java](snippets/Algorithms/java/BubbleSort.java)
+  - [DijkstraAlgorithm.java](snippets/Algorithms/java/DijkstraAlgorithm.java)
   - [binary-search.java](snippets/Algorithms/java/binary-search.java)
   - [bubble-sort.java](snippets/Algorithms/java/bubble-sort.java)
   - [factorial.java](snippets/Algorithms/java/factorial.java)
@@ -93,15 +96,18 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [reverse-string.php](snippets/Algorithms/php/reverse-string.php)
   - [stack-example.php](snippets/Algorithms/php/stack-example.php)
 - **python**
+  - [bellman_ford.py](snippets/Algorithms/python/bellman_ford.py)
   - [binary-search.py](snippets/Algorithms/python/binary-search.py)
   - [bubble-sort.py](snippets/Algorithms/python/bubble-sort.py)
   - [dijkstra.py](snippets/Algorithms/python/dijkstra.py)
   - [factorial.py](snippets/Algorithms/python/factorial.py)
   - [fibonacci.py](snippets/Algorithms/python/fibonacci.py)
   - [hello-world.py](snippets/Algorithms/python/hello-world.py)
+  - [kruskal_algorithm.py](snippets/Algorithms/python/kruskal_algorithm.py)
   - [merge-sort.py](snippets/Algorithms/python/merge-sort.py)
   - [palindrome-check.py](snippets/Algorithms/python/palindrome-check.py)
   - [prime-check.py](snippets/Algorithms/python/prime-check.py)
+  - [quick_sort.py](snippets/Algorithms/python/quick_sort.py)
   - [reverse-string.py](snippets/Algorithms/python/reverse-string.py)
   - [stack-example.py](snippets/Algorithms/python/stack-example.py)
 - **ruby**
@@ -183,7 +189,7 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [merge-sort.go](snippets/Basics/go/merge-sort.go)
   - [palindrome-check.go](snippets/Basics/go/palindrome-check.go)
   - [prime-check.go](snippets/Basics/go/prime-check.go)
-  - [reverse-string.go](snippets/Basics/go/reverse-string.go)
+  - [reverse_string.go](snippets/Basics/go/reverse_string.go)
   - [stack-example.go](snippets/Basics/go/stack-example.go)
 - **java**
   - [binary-search.java](snippets/Basics/java/binary-search.java)
