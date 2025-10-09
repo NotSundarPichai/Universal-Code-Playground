@@ -10,7 +10,7 @@ import java.util.Scanner;
  * The program ignores case and spaces for a clean comparison.
  *
  * Time Complexity: O(n)
- * Space Complexity: O(1)
+ * Space Complexity: O(n)
  */
 
 public class PalindromeCheck {
