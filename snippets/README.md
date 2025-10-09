@@ -102,6 +102,7 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [dijkstra.py](snippets/Algorithms/python/dijkstra.py)
   - [factorial.py](snippets/Algorithms/python/factorial.py)
   - [fibonacci.py](snippets/Algorithms/python/fibonacci.py)
+  - [floyd_warshall.py](snippets/Algorithms/python/floyd_warshall.py)
   - [hello-world.py](snippets/Algorithms/python/hello-world.py)
   - [kruskal_algorithm.py](snippets/Algorithms/python/kruskal_algorithm.py)
   - [merge-sort.py](snippets/Algorithms/python/merge-sort.py)
