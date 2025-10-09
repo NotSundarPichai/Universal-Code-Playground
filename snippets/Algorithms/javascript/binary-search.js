@@ -9,7 +9,7 @@
  * Time Complexity: O(log n)
  * Space Complexity: O(1)
  *
- * Example:
+ * Example ~_~:
  * E-Commerce Price Filtering - When products are sorted by price, binary search helps you, Find the first product ≥ ₹500. Find the last product ≤ ₹1000. This makes filtering and pagination lightning fast.
  */
 
