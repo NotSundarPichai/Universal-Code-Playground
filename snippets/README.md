@@ -241,6 +241,7 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
 - **python**
   - [binary-search.py](snippets/Basics/python/binary-search.py)
   - [bubble-sort.py](snippets/Basics/python/bubble-sort.py)
+  - [factorial.ipynb](snippets/Basics/python/factorial.ipynb)
   - [factorial.py](snippets/Basics/python/factorial.py)
   - [fibonacci.py](snippets/Basics/python/fibonacci.py)
   - [hello-world.py](snippets/Basics/python/hello-world.py)
