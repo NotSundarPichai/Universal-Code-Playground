@@ -2,10 +2,10 @@
 
 Thanks to everyone who contributed!
 
-- [IamBisrutPyne](https://github.com/IamBisrutPyne) — contributions: 72
-- [github-actions[bot]](https://github.com/apps/github-actions) — contributions: 23
+- [IamBisrutPyne](https://github.com/IamBisrutPyne) — contributions: 73
+- [github-actions[bot]](https://github.com/apps/github-actions) — contributions: 24
+- [Sreenivasulu-03](https://github.com/Sreenivasulu-03) — contributions: 7
 - [NotSundarPichai](https://github.com/NotSundarPichai) — contributions: 6
-- [Sreenivasulu-03](https://github.com/Sreenivasulu-03) — contributions: 6
 - [Jivi-this-side](https://github.com/Jivi-this-side) — contributions: 5
 - [haragam22](https://github.com/haragam22) — contributions: 5
 - [Aadhithya01](https://github.com/Aadhithya01) — contributions: 3
