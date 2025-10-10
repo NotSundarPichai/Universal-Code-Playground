@@ -53,6 +53,7 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [BubbleSort.java](snippets/Algorithms/java/BubbleSort.java)
   - [DijkstraAlgorithm.java](snippets/Algorithms/java/DijkstraAlgorithm.java)
   - [PalindromeCheck.java](snippets/Algorithms/java/PalindromeCheck.java)
+  - [PrimeNumberCheck.java](snippets/Algorithms/java/PrimeNumberCheck.java)
   - [binary-search.java](snippets/Algorithms/java/binary-search.java)
   - [bubble-sort.java](snippets/Algorithms/java/bubble-sort.java)
   - [factorial.java](snippets/Algorithms/java/factorial.java)
