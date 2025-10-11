@@ -1,32 +1,33 @@
 *.md linguist-vendored
 *.txt linguist-vendored
+*.log linguist-vendored
 .gitignore linguist-vendored
 .gitattributes linguist-vendored
 *.json linguist-vendored
 *.lock linguist-vendored
 *.toml linguist-vendored
-.yaml linguist-vendored
-LICENSE linguist-vendored
+*.yaml linguist-vendored
+LICENSE* linguist-vendored
 CONTRIBUTING.md linguist-vendored
 
+*.o linguist-vendored
+*.obj linguist-vendored
+*.out linguist-vendored
+*.dll linguist-vendored
+*.exe linguist-vendored
+*.bin linguist-vendored
 
 *.java linguist-language=Java
 *.c linguist-language=C
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
 *.go linguist-language=Go
 *.rb linguist-language=Ruby
 *.js linguist-language=JavaScript
 *.py linguist-language=Python
-
-
 *.rs linguist-language=Rust
-*.cpp linguist-language=C++
-*.hpp linguist-language=C++
 *.swift linguist-language=Swift
 *.php linguist-language=PHP
 *.kt linguist-language=Kotlin
 
-
 *.ipynb linguist-language=Python
-
-
-*.hs linguist-language=Haskell
