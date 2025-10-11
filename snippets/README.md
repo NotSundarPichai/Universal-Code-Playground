@@ -103,6 +103,7 @@ This is an auto-generated index. Run `python tools/generate_index.py` to update.
   - [bubble-sort.py](snippets/Algorithms/python/bubble-sort.py)
   - [dijkstra.py](snippets/Algorithms/python/dijkstra.py)
   - [factorial.py](snippets/Algorithms/python/factorial.py)
+  - [fibonacci.ipynb](snippets/Algorithms/python/fibonacci.ipynb)
   - [fibonacci.py](snippets/Algorithms/python/fibonacci.py)
   - [floyd_warshall.py](snippets/Algorithms/python/floyd_warshall.py)
   - [hello-world.py](snippets/Algorithms/python/hello-world.py)
