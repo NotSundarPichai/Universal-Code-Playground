@@ -2,8 +2,8 @@
 
 Thanks to everyone who contributed!
 
+- [github-actions[bot]](https://github.com/apps/github-actions) — contributions: 95
 - [IamBisrutPyne](https://github.com/IamBisrutPyne) — contributions: 94
-- [github-actions[bot]](https://github.com/apps/github-actions) — contributions: 94
 - [NotSundarPichai](https://github.com/NotSundarPichai) — contributions: 7
 - [Sreenivasulu-03](https://github.com/Sreenivasulu-03) — contributions: 7
 - [Jivi-this-side](https://github.com/Jivi-this-side) — contributions: 5
